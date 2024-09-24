@@ -35,7 +35,7 @@ else:
 ```
 ### Результат.
 
-![Меню](Pic/task1.png)
+![Меню](Pic/lab1.png)
 
 ### Выводы
 
@@ -55,7 +55,7 @@ else:
 ```
 ### Результат.
 
-![Меню](images/task2.png)
+![Меню](Pic/lab2.png)
 
 ### Выводы
 
@@ -75,7 +75,7 @@ else:
 ```
 ### Результат.
 
-![Меню](images/task3.png)
+![Меню](Pic/lab3.png)
 
 ### Выводы
 
@@ -97,7 +97,7 @@ else:
 ```
 ### Результат.
 
-![Меню](images/task4.png)
+![Меню](Pic/lab4.png)
 
 ### Выводы
 
@@ -122,7 +122,7 @@ for i in range(10):
 ```
 ### Результат.
 
-![Меню](images/task5.png)
+![Меню](Pic/lab5.png)
 
 ### Выводы
 
@@ -144,7 +144,7 @@ else:
 ```
 ### Результат.
 
-![Меню](images/task6.png)
+![Меню](Pic/lab6.png)
 
 ### Выводы
 
@@ -159,7 +159,7 @@ for i in range(21, -1, -1):
 ```
 ### Результат.
 
-![Меню](images/task7.png)
+![Меню](Pic/lab7.png)
 
 ### Выводы
 
@@ -182,7 +182,7 @@ while n < 100:
 ```
 ### Результат.
 
-![Меню](images/task8.png)
+![Меню](Pic/lab8.png)
 
 ### Выводы
 
@@ -205,7 +205,7 @@ print(value)
 ```
 ### Результат.
 
-![Меню](images/task9.png)
+![Меню](Pic/lab9.png)
 
 ### Выводы
 
@@ -228,7 +228,7 @@ else:
 ```
 ### Результат.
 
-![Меню](images/task10.png)
+![Меню](Pic/lab10.png)
 
 ### Выводы
 
@@ -253,7 +253,7 @@ print(n)
 ```
 ### Результат.
 
-![Меню](images/s-task1.png)
+![Меню](Pic/sam1.png)
 
 ### Выводы
 
@@ -273,7 +273,7 @@ for i in range(len(string) - 1, -1, -1):
 ```
 ### Результат.
 
-![Меню](images/s-task2.png)
+![Меню](Pic/sam2.png)
 
 ### Выводы
 
@@ -304,7 +304,7 @@ else:
 ```
 ### Результат.
 
-![Меню](images/s-task3.png)
+![Меню](Pic/sam3.png)
 
 ### Выводы
 
@@ -342,7 +342,7 @@ print(sentence.endswith("end"))
 ```
 ### Результат.
 
-![Меню](images/s-task4.png)
+![Меню](Pic/sam4.png)
 
 ### Выводы
 
@@ -373,7 +373,7 @@ print(memory)
 ```
 ### Результат.
 
-![Меню](images/s-task5.png)
+![Меню](Pic/sam5.png)
 
 ### Выводы
 
