@@ -466,14 +466,19 @@ if __name__ == '__main__':
 ### выведите в консоль полученную площадь.
 
 ```python
-from square import square
+from triangle_area import square
 
 if __name__ == '__main__':
-    a = int(input())
-    b = int(input())
-    c = int(input())
+    
+    a = float(input("Введите длину стороны A: "))
+    b = float(input("Введите длину стороны B: "))
+    c = float(input("Введите длину стороны C: "))
 
-    print(square(a, b, c))
+    if a + b > c and a + c > b and b + c > a:
+        area = square(a, b, c)
+        print(f"Площадь треугольника: {area:.2f}")
+    else:
+        print("Ошибка: Указанные длины сторон не могут образовать треугольник.")
 ```
 
 ```python
@@ -490,7 +495,7 @@ def square(a, b, c):
 
 ### Выводы
 
-`from square import square` импортируем наш файл и метод
+`from triangle_area import square` импортируем наш файл и метод
 
 ## Общие выводы по теме
 научился работать в datetime, time, date, math. Научился писать свои методы, ставить точку входа.
