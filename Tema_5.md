@@ -39,7 +39,7 @@ print(set_1 - set_2)
 ```
 ### Результат.
 
-![Меню](images/task1.png)
+![Меню](pict/lab1.png)
 
 ### Выводы
 
@@ -59,7 +59,7 @@ print(a)
 ```
 ### Результат.
 
-![Меню](images/task2.png)
+![Меню](pict/lab2.png)
 
 ### Выводы
 
@@ -85,7 +85,7 @@ print(replace([1, 2, 3, 4, 5]))
 ```
 ### Результат.
 
-![Меню](images/task3.png)
+![Меню](pict/lab3.png)
 
 ### Выводы
 
@@ -103,7 +103,7 @@ print(a[2:6])
 ```
 ### Результат.
 
-![Меню](images/task4.png)
+![Меню](pict/lab4.png)
 
 ### Выводы
 
@@ -126,7 +126,7 @@ print(useless([-25.8, 86, 12.5, -56, 73.2, 0, 43, -91.5, 65.9, -7]))
 ```
 ### Результат.
 
-![Меню](images/task5.png)
+![Меню](pict/lab5.png)
 
 ### Выводы
 
@@ -149,7 +149,7 @@ print('Иван - ', ivan)
 ```
 ### Результат.
 
-![Меню](images/task6.png)
+![Меню](pict/lab6.png)
 
 ### Выводы
 
@@ -173,7 +173,7 @@ print('Отсортированный список без наименьшего
 
 ### Результат.
 
-![Меню](images/task7.png)
+![Меню](pict/lab7.png)
 
 ### Выводы
 
@@ -201,7 +201,7 @@ print(result)
 ```
 ### Результат.
 
-![Меню](images/task8.png)
+![Меню](pict/lab8.png)
 
 ### Выводы
 
@@ -235,7 +235,7 @@ superset({90, 100}, {3, 5})
 ```
 ### Результат.
 
-![Меню](images/task9.png)
+![Меню](pict/lab9.png)
 
 ### Выводы
 
@@ -253,7 +253,7 @@ print(my_list[::-1])
 ```
 ### Результат.
 
-![Меню](images/task10.png)
+![Меню](pict/lab10.png)
 
 ### Выводы
 
@@ -283,7 +283,7 @@ print(Counter(a).most_common(1)[0][0])
 ```
 ### Результат.
 
-![Меню](images/s-task1.png)
+![Меню](pict/sam1.png)
 
 ### Выводы
 
@@ -314,7 +314,7 @@ print(a[10:])
 ```
 ### Результат.
 
-![Меню](images/s-task2.png)
+![Меню](pict/sam2.png)
 
 ### Выводы
 
@@ -353,7 +353,7 @@ print(min_square)
 ```
 ### Результат.
 
-![Меню](images/s-task3.png)
+![Меню](pict/sam3.png)
 
 ### Выводы
 
@@ -388,7 +388,7 @@ print(modify_grades(third))
 ```
 ### Результат.
 
-![Меню](images/s-task4.png)
+![Меню](pict/sam4.png)
 
 ### Выводы
 
@@ -438,7 +438,7 @@ print(list_to_set(list_3))
 
 ### Результат.
 
-![Меню](images/s-task5.png)
+![Меню](pict/sam5.png)
 
 ### Выводы
 
